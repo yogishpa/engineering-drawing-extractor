@@ -1,5 +1,5 @@
 """
-AWS service clients for the Streamlit Engineering Drawing Extractor.
+AWS service clients for the Streamlit Engineering Drawing Extractor. 
 
 This module provides clients for AWS services including Bedrock Data Automation,
 Claude 4 Sonnet via Bedrock, and Amazon Textract with error handling and retry logic.
