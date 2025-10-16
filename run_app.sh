@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Engineering Drawing Extractor - Startup Script
+# Engineering Drawing Extractor - Startup Script 
 echo "🚀 Starting Engineering Drawing Extractor..."
 
 # Check if virtual environment exists
