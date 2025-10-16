@@ -1,5 +1,5 @@
 """
-Core data models for the Streamlit Engineering Drawing Extractor.
+Core data models for the Streamlit Engineering Drawing Extractor. 
 
 This module defines the data structures used throughout the application
 for representing extracted engineering drawing information.
@@ -246,4 +246,5 @@ def create_annotation(text: str, type: str, confidence: float,
         type=type,
         confidence=confidence,
         location_description=location_description
+
     )
