@@ -1,5 +1,5 @@
 """
-Core extraction engine for the Streamlit Engineering Drawing Extractor.
+Core extraction engine for the Streamlit Engineering Drawing Extractor. 
 
 This module provides the main extraction functionality with PDF validation,
 preprocessing, multi-service support, and result processing.
@@ -455,4 +455,5 @@ def create_extraction_engine(aws_region: str = "us-east-1",
     Returns:
         Configured ExtractionEngine instance
     """
+
     return ExtractionEngine(aws_region, max_file_size_mb)
