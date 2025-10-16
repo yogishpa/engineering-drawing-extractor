@@ -1,7 +1,7 @@
 """
 Configuration management for the Streamlit Engineering Drawing Extractor.
 
-This module handles environment variables, Streamlit secrets, and application settings.
+This module handles environment variables, Streamlit secrets, and application settings. 
 """
 
 import os
@@ -290,4 +290,5 @@ def display_config_info():
             else:
                 st.error("❌ Configuration issues detected:")
                 for error in errors:
+
                     st.write(f"• {error}")
