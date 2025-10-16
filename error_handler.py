@@ -1,5 +1,5 @@
 """
-Error handling and user feedback system for the Streamlit Engineering Drawing Extractor.
+Error handling and user feedback system for the Streamlit Engineering Drawing Extractor. 
 
 This module provides comprehensive error handling, user-friendly error messages,
 and retry mechanisms for the extraction process.
@@ -563,4 +563,5 @@ def display_system_health():
             st.info("📊 No errors recorded")
         
         # Display extraction tips
+
         display_extraction_tips()
