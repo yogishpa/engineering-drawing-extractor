@@ -1,5 +1,5 @@
 """
-Main Streamlit application for the Engineering Drawing Extractor.
+Main Streamlit application for the Engineering Drawing Extractor. 
 
 This module provides the user interface for uploading PDFs, selecting extraction methods,
 and displaying results with download functionality.
@@ -666,4 +666,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
