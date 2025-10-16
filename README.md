@@ -5,7 +5,7 @@ A powerful web application for extracting dimensions, tolerances, part numbers, 
 ## Features
 
 - 📄 **PDF Upload**: Support for engineering drawings up to 100MB
-- 🤖 **Multiple AI Methods**: Claude 3.5 Sonnet, Bedrock Data Automation, Amazon Textract
+- 🤖 **Multiple AI Methods**: Claude 4 Sonnet, Bedrock Data Automation, Amazon Textract
 - 📊 **Structured Results**: Organized extraction of dimensions, tolerances, part numbers, and annotations
 - 🎯 **Confidence Scoring**: Quality assessment for all extracted data
 - 📥 **Export Options**: Download results in JSON, CSV, or summary report formats
@@ -321,5 +321,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Export functionality (JSON, CSV, reports)
 
 ---
+
 
 **Built with ❤️ using Streamlit and AWS AI Services**# engineering-drawing-extractor
